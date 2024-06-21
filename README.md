@@ -35,7 +35,4 @@ Skills & Technologies:
   <img src="https://komarev.com/ghpvc/?username=akrecev&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
-
-
+Contact: kretsev@yahoo.com
