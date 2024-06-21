@@ -22,7 +22,9 @@ Currently, working at [RWEC.RU](https://rwec.ru/) as a Software Engineer.
 I mostly work with Java8, Java17, Spring Boot, Gradle, Maven, Spring Data, PostgreSQL, MySQL.
 REST API design and development.
 
-Skills & Technologies:
+<details>
+  <summary><strong>Skills & Technologies:</strong></summary>
+    
 - Java, Spring
 - RESTful API
 - PostgreSQL, MySQL
@@ -30,6 +32,8 @@ Skills & Technologies:
 - Docker
 - Gradle, Maven
 - Jsoup, JavaFX, Swing
+
+</details>
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=akrecev&style=flat-square&color=blue" alt=""/>
