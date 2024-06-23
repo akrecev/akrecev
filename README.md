@@ -31,7 +31,7 @@ REST API design and development.
 - Flyway, Liquibase
 - Docker
 - Gradle, Maven
-- Jsoup, JavaFX, Swing
+- JavaFX, Swing
 
 </details>
 
