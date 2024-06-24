@@ -35,11 +35,11 @@ REST API design and development.
 
 </details>
 
+Contacts: [email](kretsev@yahoo.com), [telegram](https://t.me/akrecev)
+
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=akrecev&style=flat-square&color=blue" alt=""/>
 </div>
-
-Contact: kretsev@yahoo.com
 
 
 
