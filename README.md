@@ -23,7 +23,7 @@ I mostly work with Java8, Java17, Spring Boot, Gradle, Maven, Spring Data, Postg
 REST API design and development.
 
 <details>
-  <summary><strong>Skills & Technologies:</strong></summary>
+  <summary><strong>Skills & Technologies</strong></summary>
     
 - Java, Spring
 - RESTful API
