@@ -18,7 +18,7 @@ My name is Andrey.
 I have more than 1 year of experience in software design and development (backend).
 I have experience writing software from scratch and maintaining existing projects. During this time, I developed applications in the field of water use and water conservation.
 
-Currently, working at [RWEC.RU](https://rwec.ru/) as a Software Engineer.
+Currently, working at [ROKDC](https://rokdc.ru/) as a Software Engineer.
 I mostly work with Java8, Java17, Spring Boot, Gradle, Maven, Spring Data, PostgreSQL, MySQL.
 REST API design and development.
 
